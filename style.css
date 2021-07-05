@@ -1,0 +1,113 @@
+body{
+    font-family: 'Bona Nova', serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+    color: maroon;
+    
+}
+h2{
+    font-size: 20px;
+    
+}
+.pf{
+    color: brown;
+}
+.flaxible-container{
+    display: flex;
+}
+.half{
+    width: 50%;
+    padding-left: 2%;
+    margin-bottom: 10%;
+   
+    
+    
+
+
+}
+.half img{
+    width: 90%;
+    border-radius: 70%;
+    
+    
+}
+.click {
+    text-decoration: none;
+    color: rgb(31, 165, 228);
+    padding: 20px 40px 20px;
+    border-radius: 7px;
+    font-weight: 700;
+    background-image: linear-gradient(red,black);
+    
+}
+.bm{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    margin: 0;
+
+}
+#ptag{
+    padding-bottom: 20px;
+    
+}
+.dream-big{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    
+}
+.pg{
+    padding-right: 20%;
+}
+.aich two{
+    font-weight: 700;
+
+}
+.experiance-item{
+   box-shadow:10px 10px 10px goldenrod;
+   width: 33.33%;
+   margin-left: 5%;
+   margin-right: 5%;
+   margin-bottom: 5%;
+   padding: 20px;
+   border-radius: 5%;
+ 
+}
+.orange-colour{
+    color: goldenrod;
+}
+.experience-blog{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position:left;
+}
+#my-dev{
+    border-left: 7px solid;
+    border-image-slice: linear-gradient(rgb(156, 156, 4),blue);
+    border-image-slice: 1;
+    border-color: rgb(218, 111, 11);
+    
+
+}
+#baby-dev{
+    border-left: 7px solid;
+    border-image-slice: 1;
+    border-image-slice: linear-gradient(red,black);
+    border-color: rgb(218, 111, 11);
+
+}
+#pro-dev{
+    border-left: 7px solid;
+    border-color: rgb(218, 111, 11);
+    border-image-slice: 1;
+    border-image-slice: linear-gradient(rgb(32, 167, 185),gray);
+
+}
+footer p{
+    text-align: center;
+}
+.SA{
+    color: rgb(218, 111, 11);
+}
